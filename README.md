@@ -59,7 +59,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aswinharikrishnan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aswinharikrishnan/count.svg" />
-</p>
