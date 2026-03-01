@@ -38,11 +38,10 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswinharikrishnan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinharikrishnan&layout=compact&langs_count=8&theme=dark" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswinharikrishnan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Aswin's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinharikrishnan&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+</p>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
@@ -55,7 +54,8 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinharikrishnan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aswinharikrishnan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="aswinharikrishnan's github trophies" />
+  </a>
+</p>
