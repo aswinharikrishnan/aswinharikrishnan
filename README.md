@@ -55,5 +55,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinharikrishnan&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache=1" alt="aswinharikrishnan trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aswinharikrishnan&theme=radical&no-frame=false&no-bg=false&margin-w=4&dummy=image.svg" alt="Trophies" />
 </p>
+
+---
