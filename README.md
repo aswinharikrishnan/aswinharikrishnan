@@ -53,9 +53,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinharikrishnan&theme=github-dark&area=true&hide_border=true" alt="GitHub Contributions Graph" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinharikrishnan&theme=radical&no-frame=false&no-bg=false&margin-w=4&dummy=image.svg" alt="Trophies" />
-</p>
 
----
